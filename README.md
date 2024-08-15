@@ -16,5 +16,5 @@ PS C:\Users\hp\OneDrive\Desktop\git demo\localrepo>
 >>>>>>> 5cfac1d0769d7d6a9beb24473e83f0c4f7489591
 first add data in the local computer then 
 i add data in repo at same time to perform push and pull command.
-
- 
+My name is zain 
+study i bscs
