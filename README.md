@@ -16,3 +16,5 @@ PS C:\Users\hp\OneDrive\Desktop\git demo\localrepo>
 >>>>>>> 5cfac1d0769d7d6a9beb24473e83f0c4f7489591
  add data in repo for perfom pull command
 >>>>>>> data in computer 1st thats why i cant pull data in computer 1st
+lets checl again for push pull
+>>>>>>> with out commit
